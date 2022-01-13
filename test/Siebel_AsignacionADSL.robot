@@ -16,13 +16,13 @@ Creacion de un cliente nuevo
     Crear Cliente Nuevo
 
 creacion cuenta cliente 
-   Crear Cuenta Cliente
+   Crear Cuenta Cliente    1013598198    29/06/2021
 
 Diligencia Datos Basicos del cliente nuevo
-    Diligenciar Datos Basicos Cliente 
+    Diligenciar Datos Basicos Cliente    OswaldoE    RiverosE    6019208100    3017262122
 
 Diligencia direccion Asosiado
-    Asociar Direccion al cliente
+    Asociar Direccion al cliente    Bogota    "Bogota"   "Bosque de San Carlos"    Calle 30 Sur # 12d - 30 int 3 apto 207
 
 Realiza la paginacion y actulizacion de Cobertura
     Paginar y Actualizar Cobertura

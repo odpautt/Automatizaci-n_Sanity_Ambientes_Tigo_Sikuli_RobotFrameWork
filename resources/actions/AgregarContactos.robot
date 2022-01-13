@@ -20,8 +20,7 @@ Agregar Contactos al Cliente
     SikuliLibrary.Key Up    CTRL
     Sleep    3
     SikuliLibrary.Click    btnGenerarDatosAsociados.PNG
-    Sleep    1
-    SikuliLibrary.click       IE3.png
+    Sleep    4
     SikuliLibrary.Click    pestanaGerarquiaDeCuentas.PNG
     SikuliLibrary.Click    tituloCuentaPrincipal   yOffset=70
     Sleep    1
